@@ -8,7 +8,7 @@ import re
 import os
 
 # Path file langsung
-file_path = r"D:\reksis\app\laptop.csv"
+file_path = r"laptop.csv"
 
 # Fungsi untuk pembersihan teks
 clean_spcl = re.compile('[/(){}\[\]\|@,;]')
